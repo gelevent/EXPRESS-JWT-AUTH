@@ -1,6 +1,7 @@
 {
   "name": "express-jwt-auth",
   "version": "1.0.0",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
@@ -17,6 +18,5 @@
     "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.9.7",
     "nodemon": "^3.1.0"
-  },
-  "description": ""
+  }
 }
